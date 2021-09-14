@@ -1,0 +1,37 @@
+.block {
+  margin: 0 auto;
+  width: 243px;
+}
+
+.form {
+  display: inline-flex;
+  flex-direction: column;
+  border: 3px solid grey;
+  border-radius: 10px;
+  padding: 20px;
+  width: 200px;
+}
+
+.title {
+  font-weight: 600;
+  margin-left: 0;
+}
+
+.btn {
+  margin: 30px auto;
+  width: 150px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: rgba(84, 134, 180, 0.87);
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgba(84, 134, 180, 0.472);
+}
+
+.speener {
+  margin-left: 72px;
+  height: 50px;
+}

@@ -1,0 +1,19 @@
+.title {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  font-size: 35px;
+}
+
+.titleContact {
+  display: flex;
+  margin-left: 71px;
+}
+
+.block {
+  border: 3px solid grey;
+  border-radius: 10px;
+  width: 220px;
+  padding: 10px;
+  margin: 0 auto;
+}

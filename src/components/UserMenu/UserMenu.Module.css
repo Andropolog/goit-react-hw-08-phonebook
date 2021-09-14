@@ -1,0 +1,55 @@
+.header {
+  /* margin: 0 100px; */
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 150px;
+  padding-top: 20px;
+}
+
+.navigation {
+  margin-right: 20px;
+  color: rgb(247, 246, 248);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.navigation:hover {
+  color: rgb(226, 26, 159);
+}
+
+.navigation2 {
+  color: 20px;
+  color: rgb(247, 246, 248);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.navigation2:hover {
+  color: rgb(226, 26, 159);
+}
+
+.userMenu {
+  font-size: 20px;
+  font-weight: 800;
+  color: rgb(162, 231, 222);
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.userMenuBtn {
+  height: 30px;
+  width: 100px;
+  margin-left: 10px;
+  border-radius: 15px;
+  background-color: rgba(84, 134, 180, 0.87);
+  cursor: pointer;
+  font-weight: 800;
+}
+
+.userMenuBtn:hover {
+  background-color: rgb(226, 26, 159);
+}
+.avatar {
+  margin-left: 10px;
+}

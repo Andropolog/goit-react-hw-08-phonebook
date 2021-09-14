@@ -1,0 +1,25 @@
+.ul {
+  padding-left: 20px;
+  font-size: 15px;
+  font-weight: 600;
+  justify-content: space-between;
+  width: 200px;
+}
+.btn {
+  margin-left: 10px;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  background-color: rgba(84, 134, 180, 0.87);
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgba(84, 134, 180, 0.431);
+}
+
+.textContent {
+  justify-content: space-between;
+  display: flex;
+  margin-bottom: 5px;
+}
