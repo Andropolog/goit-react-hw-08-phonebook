@@ -1,0 +1,40 @@
+{
+  "files": {
+    "contacts-view.css": "/static/css/contacts-view.00b29c97.chunk.css",
+    "contacts-view.js": "/static/js/contacts-view.08374f75.chunk.js",
+    "contacts-view.js.map": "/static/js/contacts-view.08374f75.chunk.js.map",
+    "home-view.css": "/static/css/home-view.46d82234.chunk.css",
+    "home-view.js": "/static/js/home-view.5c46fefb.chunk.js",
+    "home-view.js.map": "/static/js/home-view.5c46fefb.chunk.js.map",
+    "login-view.css": "/static/css/login-view.46d82234.chunk.css",
+    "login-view.js": "/static/js/login-view.f9d8d651.chunk.js",
+    "login-view.js.map": "/static/js/login-view.f9d8d651.chunk.js.map",
+    "main.css": "/static/css/main.ba99eb1b.chunk.css",
+    "main.js": "/static/js/main.ecd521c1.chunk.js",
+    "main.js.map": "/static/js/main.ecd521c1.chunk.js.map",
+    "register-view.css": "/static/css/register-view.46d82234.chunk.css",
+    "register-view.js": "/static/js/register-view.e11044cd.chunk.js",
+    "register-view.js.map": "/static/js/register-view.e11044cd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4f77d3c9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4f77d3c9.js.map",
+    "static/js/6.6467ffba.chunk.js": "/static/js/6.6467ffba.chunk.js",
+    "static/js/6.6467ffba.chunk.js.map": "/static/js/6.6467ffba.chunk.js.map",
+    "static/js/7.448e0e94.chunk.js": "/static/js/7.448e0e94.chunk.js",
+    "static/js/7.448e0e94.chunk.js.map": "/static/js/7.448e0e94.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/contacts-view.00b29c97.chunk.css.map": "/static/css/contacts-view.00b29c97.chunk.css.map",
+    "static/css/home-view.46d82234.chunk.css.map": "/static/css/home-view.46d82234.chunk.css.map",
+    "static/css/login-view.46d82234.chunk.css.map": "/static/css/login-view.46d82234.chunk.css.map",
+    "static/css/main.ba99eb1b.chunk.css.map": "/static/css/main.ba99eb1b.chunk.css.map",
+    "static/css/register-view.46d82234.chunk.css.map": "/static/css/register-view.46d82234.chunk.css.map",
+    "static/js/6.6467ffba.chunk.js.LICENSE.txt": "/static/js/6.6467ffba.chunk.js.LICENSE.txt",
+    "static/media/User_Avatar.277ea04b.png": "/static/media/User_Avatar.277ea04b.png",
+    "static/media/index.css": "/static/media/bgc.915f257a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f77d3c9.js",
+    "static/js/6.6467ffba.chunk.js",
+    "static/css/main.ba99eb1b.chunk.css",
+    "static/js/main.ecd521c1.chunk.js"
+  ]
+}
